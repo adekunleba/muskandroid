@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Musk</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Drug to search</string>
+</resources>
